@@ -1,2 +1,2 @@
 # Tryhackme
-Write Ups de las maquinas resueltas de la plataforma Tryhackme
+Write Ups de las maquinas y salas resueltas de la plataforma Tryhackme
